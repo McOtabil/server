@@ -7,7 +7,7 @@ using System.Data;
 using System.Text;
 using NEO_Block_API.RPC;
 using Newtonsoft.Json.Linq;
-using System.Data.SqlClient;
+using System.Data.SqlClient; // client
 
 namespace NEO_Block_API.lib
 {
